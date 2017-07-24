@@ -18,6 +18,7 @@ gem 'pg', group: :production
 gem 'rails_12factor', group: :production
 # add bootstrap
 gem 'bootstrap-sass'
+gem 'devise'
 # add stripe for taking payments
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
